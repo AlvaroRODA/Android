@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: :billing-3.0.3:@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/ca97f95bec7a3852a43d3c9c2e49963f/transformed/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/ca97f95bec7a3852a43d3c9c2e49963f/transformed/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/ca97f95bec7a3852a43d3c9c2e49963f/transformed/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

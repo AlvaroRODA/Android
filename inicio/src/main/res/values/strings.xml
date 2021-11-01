@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Iniciar Sesion</string>
+    <string name="text_usuario">Usuario</string>
+    <string name="text_contrasenia">Contraseña</string>
+    <string name="text_edad">Edad</string>
+    <string name="text_estatura">Estatura</string>
+    <string name="boton_ingresar">Ingresar</string>
+    <string name="boton_registrar">Registrarse</string>
+    <string name="boton_jugar">Jugar</string>
+    <string name="text_crear_usuario">Crear usuario</string>
+    <string name="text_Perfil">Perfil</string>
+    <string name="text_tutoriales">Tutoriales</string>
+    <string name="text_introduccion">Introduccion</string>
+</resources>
